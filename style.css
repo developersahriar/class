@@ -1,0 +1,99 @@
+.header-section{
+    background-color: #101446;
+}
+img{
+    max-width: 100%;
+}
+
+.headar-logo img {
+	width: 100px;
+	padding: 4px;
+}
+.headar-menu {}
+.headar-menu ul {
+	display: inline-block;
+	margin-top: 15px;
+	margin-left: 188px;
+}
+
+.headar-menu ul li {
+	display: inline-block;
+}
+.headar-menu ul li a {
+	text-decoration: none;
+	color: #fff;
+	text-transform: capitalize;
+	font-size: 18px;
+	margin-left: 21px;
+}
+/* banner-section */
+.banner-section{
+	text-align: center;
+}
+
+.banner-section h2 {
+	color: #fff;
+	font-size: 40px;
+	padding-bottom: 15px;
+}
+.banner-section p {
+	color: #fff;
+	padding-bottom: 28px;
+	width: 85%;
+	margin: auto;
+	font-size: 18px;
+}
+
+.banner-imge {
+	background-image: url(https://i.ibb.co/F5F6MTn/intro-bg.jpg);
+	padding: 200px 0px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.banner-section button {
+	color: #fff;
+	background-color: #337ab7;
+	border-radius: 10px;
+	padding: 10px;
+}
+/* teem-section */
+.teem-section{
+	background-color: #bac1f3;
+}
+.teem-heading h2{
+	font-size: 50px;
+}
+.teem-content p {
+	font-size: 17px;
+}
+.teem-content button {
+	background-color: #337ab7;
+	color: #fff;
+	border-radius: 8px;
+	padding: 11px;
+}
+/* about us */
+
+.about-section{
+	background-color: #c2d4ea;
+}
+.about-header h1{
+
+}
+.about-img{
+	background-image: url(https://i.ibb.co/K6Sjwsh/testimonial-2.jpg);
+	padding: 100px 0px ;
+	background-repeat: no-repeat;
+}
+
+/* fouter-section */
+.fouter-section {
+	background-color: #0062d3;
+	color: #fff;
+	padding: 21px;
+}
+button {
+	background: #0062d3;
+	padding: 10px 39px;
+	border-radius: 10px;
+}
